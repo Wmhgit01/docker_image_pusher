@@ -2,4 +2,8 @@ nginx
 #支持私库
 registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
 xhofe/alist:latest
-myslq
+registry.k8s.io/ingress-nginx/controller:v1.12.0
+registry.k8s.io/ingress-nginx/controller:v1.11.0
+registry.k8s.io/ingress-nginx/controller:v1.10.0
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.4
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.0
